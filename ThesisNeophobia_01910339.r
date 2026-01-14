@@ -728,7 +728,7 @@ has_gsize  <- "groupsize"   %in% rhs_terms
 #No overdispersion detected.
 
 #Overtake dynamics are better explained by condition × group size than by cohesion. 
-#The best-fitting model does not include mean_logNND at all, meaning cohesion ( captured by the NND) 
+#The best-fitting model does not include mean_logNND at all, meaning cohesion (captured by the NND) 
 #is not strongly predictive of overtake counts once condition and group size are in the model.
 
 #Visual of overtakes / second by condition across group sizes
