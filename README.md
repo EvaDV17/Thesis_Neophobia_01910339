@@ -1,3 +1,3 @@
-# Thesis_Neophobia_01910339
+#HOW DOES EXPOSURE TO NOVEL OBJECTS INFLUENCE GROUP DYNAMICS IN JUVENILE HERRING GULLS:DATA ANALYSIS
 
 This repository contains the script for the data-analysis in R-code
